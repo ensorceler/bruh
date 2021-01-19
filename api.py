@@ -6,9 +6,6 @@ import http.client
 import random
 import re
 
-global k
-k=0
-
 
 TOKEN="1561527689:AAFhXNjYbdMo2ogv2LmoB5vnGEslFtbQRhM"
 
